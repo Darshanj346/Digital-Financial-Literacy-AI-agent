@@ -103,11 +103,6 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 
 ---
 
-## Recordings(watch to build on your own)
-▶️ [Building](https://youtu.be/oanWlnqpiP4)
-▶️ [Testing & Deployment](https://youtu.be/SfwFLWpIVdk)
-
----
 
 ## 📌 How to Run or Deploy
 
@@ -132,15 +127,6 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 
 ---
 
-## 🔗 Useful Links
-
-- [IBM Cloud Lite](https://cloud.ibm.com/registration)
-- [IBM Watsonx.ai](https://www.ibm.com/products/watsonx-ai)
-- [RBI Official Website](https://www.rbi.org.in)
-- [NPCI FAQs](https://www.npci.org.in/what-we-do/upi/faqs)
-- [IBM SkillsBuild](https://skillsbuild.org)
-
----
 
 ## ⚖️ License
 
@@ -148,9 +134,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/shiva-pandala-243914229/)
 
 ---
 
 > Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 by **Shiva Pandala**
+
 
