@@ -4,9 +4,8 @@ An AI-powered assistant designed to help users understand and navigate digital f
 
 ---
 
-![ai](ai.jpg)
 
----
+
 
 ## 🧩 Problem Statement
 
@@ -137,6 +136,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 > Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 by **Darshankumar Jadhav**
+
 
 
 
